@@ -1,39 +1,39 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .head {
-    display: grid;
-    grid-template-columns: 2fr 2fr 2fr;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
 }
 
 #me {
-    background-color: skyblue;
-    border-radius: 5px;
+  background-color: skyblue;
+  border-radius: 5px;
 }
 
 #you {
-    background-color: aquamarine;
-    border-radius: 5px;
+  background-color: aquamarine;
+  border-radius: 5px;
 }
 
 #we {
-    background-color: blue;
-    border-radius: 5px;
+  background-color: blue;
+  border-radius: 5px;
 }
 
 #him {
-    background-color: yellowgreen;
-    border-radius: 5px;
+  background-color: yellowgreen;
+  border-radius: 5px;
 }
 
 #her {
-    background-color: yellow;
-    border-radius: 5px;
+  background-color: yellow;
+  border-radius: 5px;
 }
 
 #end {
-    background-color: brown;
-    border-radius: 5px;
+  background-color: brown;
+  border-radius: 5px;
 }
