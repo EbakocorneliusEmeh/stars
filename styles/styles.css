@@ -10,24 +10,30 @@
 
 #me {
     background-color: skyblue;
+    border-radius: 5px;
 }
 
 #you {
     background-color: aquamarine;
+    border-radius: 5px;
 }
 
 #we {
     background-color: blue;
+    border-radius: 5px;
 }
 
 #him {
     background-color: yellowgreen;
+    border-radius: 5px;
 }
 
 #her {
     background-color: yellow;
+    border-radius: 5px;
 }
 
 #end {
     background-color: brown;
+    border-radius: 5px;
 }
