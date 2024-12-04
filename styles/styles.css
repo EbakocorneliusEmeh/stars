@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+
+#me {
+    background-color: skyblue;
+}
+
+#you {
+    background-color: aquamarine;
+}
+
+#we {
+    background-color: blue;
+}
+
+#him {
+    background-color: yellowgreen;
+}
+
+#her {
+    background-color: yellow;
+}
+
+#end {
+    background-color: brown;
+}
